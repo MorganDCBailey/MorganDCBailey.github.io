@@ -1836,7 +1836,6 @@ input, select, textarea {
 		.feature-list section {
 			border-top: solid 1px #eee;
 			padding-top: 3em;
-			padding-left: 5em;
 			position: relative;
 		}
 
@@ -2062,7 +2061,6 @@ input, select, textarea {
 		height: 24em;
 		background: url("../../images/banner2.jpg") center center;
 		background-size: cover;
-		padding: 0;
 	}
 
 		#header:before {
@@ -2121,7 +2119,7 @@ input, select, textarea {
 		#nav > ul {
 			display: inline-block;
 			border-radius: 0.35em;
-			background-color: #1f232b;
+			background-color: #1f232baf;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
 			padding: 0 1.5em 0 1.5em;
 		}
@@ -2828,7 +2826,7 @@ input, select, textarea {
 
 			.feature-list section {
 				padding-top: 2em;
-				padding-left: 4em;
+				padding-left: 0em;
 			}
 
 			.feature-list h3:before {
